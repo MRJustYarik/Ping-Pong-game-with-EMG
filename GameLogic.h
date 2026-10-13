@@ -1,0 +1,6 @@
+class GameLogic{
+public:
+
+
+private:
+};
